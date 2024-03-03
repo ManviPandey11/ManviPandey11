@@ -1,6 +1,6 @@
 <h6>
   <br />
-  <h6>  Hello!!💙 I'm Manvi Pandey  </h6> .
+  <h6>  Hello!!💙 I'm Manvi Pandey  </h6>
   <br />
   ✨ I'm eager to delve into AI, ML, robotics and related domains.
   <br />
