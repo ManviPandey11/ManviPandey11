@@ -5,7 +5,7 @@
 <h4> An Artificial Intelligence & Data Science | Student </h4>
 
 - 🔭 I am currently Learning MERN Stack Development.
-- 🌱 I am eager to delve into AIML, Robotics and related domains.
+- 🌱 I am eager to delve into AIML, Robotics,Data Analytics and related domains.
 - 💬 Ask me about Web Development.
 - 💞️ I love collaborating and learning new skills.
 
