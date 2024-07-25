@@ -1,21 +1,20 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="ManviPandey11" /> </p>
 
-Hello!!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manvi Pandey
-======================================================================================================================================
+
+<h1 align="center"> Hello!!🤗 I am Manvi Pandey </h1>
 <h4> An Artificial Intelligence & Data Science | Student </h4>
 
 - 🔭 I am currently Learning MERN Stack Development.
-- 🌱 I am eager to delve into AIML, Robotics,Data Analytics and related domains.
-- 💬 Ask me about Web Development.
-- 💞️ I love collaborating and learning new skills.
+- 🌱 I am eager to delve into AI, ML and Data Analytics related domains.
+- 💬 Ask me about Artificial Intelligence.
+- 💞️ I am interested in collaborating and learning new skills.
 
+  <hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManviPandey11&theme=dracula" alt="ManviPandey11" /></a> </p> <a href="https://github.com/ManviPandey11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ManviPandey11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManviPandey11&theme=dracula" alt="ManviPandey11" /></a> </p>
+<a href="https://github.com/ManviPandey11" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ManviPandey11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManviPandey11&label=Profile%20views&color=0e75b6&style=flat" alt="ManviPandey11" /> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -39,13 +38,13 @@ src="https://img.shields.io/github/followers/ManviPandey11?logo=github&style=for
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ManviPandey11"><img src="https://github-readme-stats.vercel.app/api?username=ManviPandey11&show_icons=true&hide=&count_private=true&title_color=87CEEB&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ManviPandey11's GitHub stats" /></a> <a href="http://www.github.com/ManviPandey11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManviPandey11&stroke=ffffff&background=1c1917&ring=87CEEB&fire=87CEEB&currStreakNum=ffffff&currStreakLabel=87CEEB&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <a href="https://github.com/ManviPandey11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviPandey11&langs_count=10&title_color=87CEEB&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
 <b>Top Repositories</b>
 
