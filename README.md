@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="ManviPandey11" /> </p>
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello!!My name is Manvi Pandey
+Hello!!![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manvi Pandey
 ======================================================================================================================================
 <h4> An Artificial Intelligence & Data Science | Student </h4>
 
