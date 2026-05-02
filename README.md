@@ -1,12 +1,12 @@
 
 
 <h1 align="center"> Hello!!🤗 I am Manvi Pandey </h1>
-<h4> An Artificial Intelligence & Data Science | Student </h4>
+<h4> | I am an AI Systems Engineer | </h4>
 
-- 🔭 I am currently Learning MERN Stack Development.
-- 🌱 I am eager to delve into AI, ML and Data Analytics related domains.
-- 💬 Ask me about Artificial Intelligence.
-- 💞️ I am interested in collaborating and learning new skills.
+- 🔭 Currently building and shipping real-world AI systems.
+- 🌱 Continuously deepening my understanding of ML, cloud infrastructure, and system design.
+- 💬 Ask me about applied AI, full-stack development, or building end-to-end AI pipelines.
+- 💞️ Open to collaborating on impactful AI projects and connecting with like-minded builders.
 
   <hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
