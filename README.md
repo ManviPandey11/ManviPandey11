@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hello!!🤗 I am Manvi Pandey </h1>
-<h4> | I am an AI Systems Engineer | </h4>
+<h3 align="center">AI Systems Engineer</h3>
 
 - 🔭 Currently building and shipping real-world AI systems.
 - 🌱 Continuously deepening my understanding of ML, cloud infrastructure, and system design.
@@ -10,9 +10,9 @@
 
   <hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManviPandey11&theme=dracula" alt="ManviPandey11" /></a> </p>
-<a href="https://github.com/ManviPandey11" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ManviPandey11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManviPandey11&label=Profile%20views&color=0e75b6&style=flat" alt="ManviPandey11" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManviPandey11&label=Profile+Views&color=0e75b6&style=for-the-badge" /></p>
+<p align="left"> <img src="https://img.shields.io/github/followers/ManviPandey11?label=Followers&style=for-the-badge" /></p>
 
 <hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
@@ -139,8 +139,12 @@
 <hr style="margin: 0px 5em; border: 1px solid grey; border-radius: 1em; background-color: gray;">
 
 <b>My GitHub Stats</b>
+
 <p align="center">
-  <a href="http://www.github.com/ManviPandey11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManviPandey11&stroke=ffffff&background=1c1917&ring=87CEEB&fire=87CEEB&currStreakNum=ffffff&currStreakLabel=87CEEB&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ManviPandey11&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats-eight.vercel.app?user=ManviPandey11&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviPandey11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManviPandey11&theme=tokyo-night&hide_border=true" />
 </p>
