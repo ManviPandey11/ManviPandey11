@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hello!!🤗 I am Manvi Pandey </h1>
-<h3 align="center">AI Systems Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 - 🔭 Currently building and shipping real-world AI systems.
 - 🌱 Continuously deepening my understanding of ML, cloud infrastructure, and system design.
